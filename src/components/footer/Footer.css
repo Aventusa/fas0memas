@@ -1,0 +1,27 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #252627;
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    min-height: 50px;
+    max-width: 120px;
+    color: #383838;
+}
+
+.footer-wrapper > a {
+    text-decoration: none;
+    color: #383838;
+    transition: .2s ease;
+}
+
+.footer-wrapper > a:hover {
+    color: #4B88A2;
+}
