@@ -15,7 +15,7 @@
 }
 
 .icon-about {
-    background-image: url("../../imgages/about.svg");
+    background-image: url("../../images/about.svg");
     background-size: cover;
     cursor: pointer;
     width: 40px;

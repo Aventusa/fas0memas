@@ -5,8 +5,16 @@
     margin: 0 auto;
 }
 
-.about > a {
+.author {
+    display: block;
+    text-align: center;
+    opacity: .2;
     color: #4B88A2;
+    transition: .5s ease;
+}
+
+.author:hover {
+    opacity: 1;
 }
 
 .about > p {
